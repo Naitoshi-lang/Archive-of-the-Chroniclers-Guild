@@ -215,5 +215,3 @@ SELECT
 FROM expedition_participation
 GROUP BY role
 ORDER BY assignments_count DESC;
-
--- =============================================
